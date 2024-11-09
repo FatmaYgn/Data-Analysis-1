@@ -41,4 +41,4 @@ This hypothesis examines whether Android users experience greater daily battery 
 </ul>  
 
 ## Kaggle Notebook
-For an interactive and editable version of the analysis, you can explore and modify the Kaggle notebook here: [Editable Kaggle Notebook](https://www.kaggle.com/code/fatmakara/mobile-device-usage)
+For an interactive and editable version of the analysis, you can explore and modify the Kaggle notebook here: [Editable Kaggle Notebook](https://www.kaggle.com/code/fatmakara/mobile-device-usage-and-user-behavior)
